@@ -20,13 +20,11 @@ import javax.swing.*;
 import javax.swing.event.InternalFrameAdapter;
 import javax.swing.event.InternalFrameEvent;
 import javax.swing.table.AbstractTableModel;
-
-import org.contikios.cooja.interfaces.Radio;
-
 import org.contikios.cooja.ClassDescription;
 import org.contikios.cooja.Mote;
 import org.contikios.cooja.Simulation;
 import org.contikios.cooja.SupportedArguments;
+import org.contikios.cooja.interfaces.Radio;
 import org.contikios.cooja.plugins.Visualizer;
 import org.contikios.cooja.plugins.VisualizerSkin;
 import org.slf4j.Logger;

@@ -6,7 +6,6 @@ import java.awt.Point;
 import java.awt.RadialGradientPaint;
 import java.awt.geom.Area;
 import java.awt.geom.Ellipse2D;
-
 import org.contikios.cooja.Mote;
 import org.contikios.cooja.interfaces.Position;
 import org.contikios.cooja.plugins.Visualizer;

@@ -6,7 +6,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.Random;
-
 import org.contikios.cooja.Simulation;
 import org.contikios.cooja.interfaces.Radio;
 import org.contikios.cooja.radiomediums.AbstractRadioMedium;

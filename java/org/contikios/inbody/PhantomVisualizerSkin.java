@@ -2,7 +2,6 @@ package org.contikios.inbody;
 
 import java.awt.*;
 import java.awt.geom.Area;
-
 import org.contikios.cooja.ClassDescription;
 import org.contikios.cooja.Mote;
 import org.contikios.cooja.Simulation;

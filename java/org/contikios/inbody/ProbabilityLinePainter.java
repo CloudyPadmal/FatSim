@@ -7,7 +7,6 @@ import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.Stroke;
 import java.util.Set;
-
 import org.contikios.cooja.Mote;
 import org.contikios.cooja.Simulation;
 import org.contikios.cooja.interfaces.Radio;

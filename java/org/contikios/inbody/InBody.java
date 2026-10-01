@@ -7,7 +7,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Random;
-
 import org.contikios.cooja.ClassDescription;
 import org.contikios.cooja.RadioConnection;
 import org.contikios.cooja.Simulation;
